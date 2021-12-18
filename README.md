@@ -14,7 +14,7 @@
 **git commit -m 'custom note'**
 *prepares those chosen files for commit to github*
 
-**git checkout -b <branch-name>** 
+**git checkout -b 'branch-name'** 
 *create a branch with a unique name so your files are not mixed in with everyone elses*
 
 **git push -u origin newBranchTest**
