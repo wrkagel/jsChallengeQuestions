@@ -1,5 +1,5 @@
 # jsChallengeQuestions 
-## Upload or download jsChallengeQuestions 
+## Upload or download jsChallengeQuestions. I will have to add you as a collaborator before you can submit things!
 
 ## How to download files using git bash
 **git init**
@@ -12,7 +12,7 @@
 *clone everything in the repository*
 
 ## How to upload files using git bash
-*first make a subfolder in the folder where git bash was opened. Uploading a folder with your files will make the master branch easier to navigate*
+*first make a subfolder containing your files in the folder where git bash was opened. Uploading a folder with your files will make the master branch easier to navigate*
 
 **git add 'folder name'** *or...* **git add .** 
 *choose the folder you want to upload. git add . will choose all files in the directory*
@@ -20,7 +20,7 @@
 **git commit -m 'custom note'**
 *prepares those chosen files for commit to github*
 
-**git push -u origin master**
+**git push origin master**
 *upload the files*
  
 
