@@ -17,7 +17,7 @@
 **git checkout -b 'branch-name'** 
 *create a branch with a unique name so your files are not mixed in with everyone elses*
 
-**git push -u origin newBranchTest**
+**git push -u origin 'branch-name**
 *upload the files*
  
 ## How to download files using git bash
