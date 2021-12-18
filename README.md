@@ -8,7 +8,7 @@
 **git remote add origin https://github.com/akromatikus/jsChallengeQuestions.git**
 *choose the git url to upload/download to, only needed once*
 
-**git pull origin master --allow-unrelated-histories**
+**git pull origin master**
 *clone everything in the repository*
 
 ## How to upload files using git bash
