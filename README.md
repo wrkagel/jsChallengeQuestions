@@ -1,5 +1,5 @@
 # jsChallengeQuestions 
-## Upload or download jsChallengeQuestions. I will have to add you as a collaborator before you can submit things!
+## Upload or download jsChallengeQuestions.
 
 ## How to download files using git bash
 **git init**
